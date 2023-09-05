@@ -2,6 +2,8 @@
 
 ## This was the final outcome of a team of 3 members in the Data Structures Lab @ LAU
 
+This project focused on using Express and Node.js along with MongoDB for the backend and database, and it had the frontend developed at first using HTML, CSS, JS, then some of the components were upgraded to React.
+
 Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
 To preview and run the project on your device:
