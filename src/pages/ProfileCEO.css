@@ -1,0 +1,135 @@
+.profile-ceo-child {
+  position: absolute;
+  top: 124px;
+  left: 1047px;
+  width: 143px;
+  height: 136px;
+  object-fit: cover;
+}
+.add-profile,
+.image-13-icon {
+  position: absolute;
+  width: 32px;
+  height: 34px;
+}
+.image-13-icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.add-profile {
+  top: 209px;
+  left: 1158px;
+  border-radius: 51px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.info,
+.info-child {
+  position: absolute;
+  top: 317px;
+  left: 876px;
+}
+.info-child {
+  height: 79.09%;
+  width: 100%;
+  top: 20.91%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.label,
+.label1 {
+  position: absolute;
+  height: 20.91%;
+  width: 40.99%;
+  top: -10%;
+  left: 5.59%;
+  font-weight: 600;
+  display: none;
+}
+.label1 {
+  height: 25.71%;
+  width: 87.16%;
+  top: 37.14%;
+  left: 7.25%;
+  color: #000;
+}
+.info1,
+.info2 {
+  position: absolute;
+  top: 414px;
+  left: 877px;
+  width: 483px;
+  height: 70px;
+}
+.info2 {
+  top: 513px;
+  left: 876px;
+}
+.info3,
+.update-info-ceo-child {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 612px;
+  left: 876px;
+}
+.update-info-ceo-child {
+  cursor: pointer;
+  padding: 0;
+  background-color: #1b3048;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 54px;
+}
+.update-profile {
+  position: absolute;
+  height: 51.92%;
+  width: 85.46%;
+  top: 25%;
+  left: 7.42%;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Jost;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.update-info-ceo {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 754px;
+  left: 962px;
+  width: 280px;
+  height: 52px;
+}
+.new-page,
+.new-page1 {
+  position: absolute;
+  top: -6417.06px;
+  left: 13740.66px;
+  background-color: #fff;
+  width: 1440px;
+}
+.new-page1 {
+  left: 11671.41px;
+}
+.profile-ceo {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.47);
+  font-family: Jost;
+}

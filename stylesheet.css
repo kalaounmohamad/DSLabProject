@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(31,40,48);
+}
+
+.home-div {
+    height: 558px;
+    width: 70%;
+    margin: 10% auto;
+    border-radius: 5%;
+    background-color: rgb(89,101,115);
+    text-align: center;
+}
+
+.poly {
+    float: right;
+    width: 40%;
+    height: 100%;
+}
+
+/* .poly-above {zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+    float: right;
+    position: absolute;
+    right: 17%;
+    top: ...;
+} */
+
+.text-div {
+    float: left;
+    width: 60%;
+    height: 70%;
+    box-sizing: border-box;
+    padding: 40px 100px;
+}
+
+.text1 {
+    font-size: 50px;
+    color: white;
+}
+
+.text2 {
+    font-size: 25px;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+    border:none;
+    color: white;
+    background-color: rgb(136,140,140);
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 20px;
+
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+
+}
+

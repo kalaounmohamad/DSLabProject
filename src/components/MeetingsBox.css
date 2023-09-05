@@ -1,0 +1,77 @@
+.meetings-box-child,
+.meetings-box-item {
+  position: absolute;
+  top: calc(50% - 134.5px);
+  left: calc(50% - 241.5px);
+  border-radius: 21px;
+  background-color: #fff;
+  width: 483px;
+  height: 271px;
+}
+.meetings-box-item {
+  top: calc(50% - 136.5px);
+  border-radius: 21px 21px 0 0;
+  border-bottom: 1px solid #000;
+  box-sizing: border-box;
+  height: 58px;
+}
+.meetings {
+  position: absolute;
+  top: calc(50% - 124.5px);
+  left: calc(50% - 60.5px);
+  font-size: 30px;
+  font-weight: 500;
+}
+.add-project4 {
+  position: absolute;
+  top: calc(50% + 62.5px);
+  left: calc(50% - 199.5px);
+}
+.add-project5,
+.image-14-icon {
+  position: absolute;
+  top: calc(50% + 74.5px);
+  left: calc(50% + 60.5px);
+}
+.image-14-icon {
+  top: calc(50% - 21px);
+  left: calc(50% - 217px);
+  width: 35px;
+  height: 42px;
+  object-fit: cover;
+}
+.time-0000-date {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 148px);
+  display: inline-block;
+  width: 365px;
+  height: 30px;
+}
+.meeting32 {
+  position: absolute;
+  top: calc(50% - 54.5px);
+}
+.meeting32,
+.meeting33 {
+  left: calc(50% - 237.5px);
+  width: 434px;
+  height: 42px;
+}
+.meeting33,
+.meetings-box {
+  position: absolute;
+}
+.meeting33 {
+  top: calc(50% + 1.5px);
+}
+.meetings-box {
+  top: calc(50% - 11px);
+  left: calc(50% + 47px);
+  width: 483px;
+  height: 273px;
+  text-align: center;
+  font-size: 25px;
+  color: #000;
+  font-family: Jost;
+}

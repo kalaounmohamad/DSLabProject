@@ -1,0 +1,134 @@
+.deisgn-icon,
+.design-icon {
+  position: absolute;
+  top: calc(50% - 512px);
+  left: calc(50% + 737px);
+  width: 201px;
+  height: 438px;
+  object-fit: cover;
+}
+.design-icon {
+  top: calc(50% + 118px);
+  height: 406px;
+}
+.ceo1,
+.welcome {
+  position: absolute;
+  display: inline-block;
+}
+.welcome {
+  top: 90px;
+  left: -3px;
+  width: 459px;
+  height: 28px;
+}
+.ceo1 {
+  top: calc(50% - 61px);
+  left: calc(50% - 79px);
+  font-size: 70px;
+  text-align: left;
+  width: 158px;
+  height: 118px;
+}
+.image-5-icon {
+  position: relative;
+  width: 94.6px;
+  height: 94.52px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-5default {
+  position: absolute;
+  top: 16px;
+  left: 14px;
+  width: 104px;
+  height: 106px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading,
+.welcome-to-your {
+  position: absolute;
+  top: calc(50% - 392px);
+  left: calc(50% - 228px);
+  width: 456px;
+  height: 122px;
+}
+.welcome-to-your {
+  top: calc(50% + 58px);
+  left: calc(50% - 391px);
+  display: inline-block;
+  width: 743px;
+  height: 107px;
+}
+.menu-burger-2-12 {
+  position: absolute;
+  top: calc(50% - 476px);
+  left: calc(50% - 901px);
+  cursor: pointer;
+}
+.clock-icon,
+.clockvariant4-icon {
+  position: absolute;
+  width: 61px;
+  height: 59px;
+}
+.clockvariant4-icon {
+  top: calc(50% + 61px);
+  left: calc(50% + 187px);
+}
+.image-3-icon {
+  position: absolute;
+}
+.clock-icon {
+  top: calc(50% + 344px);
+  left: calc(50% - 32px);
+}
+.image-3-icon {
+  top: calc(50% + 234px);
+  left: calc(50% - 938px);
+  width: 246px;
+  height: 278px;
+  object-fit: cover;
+}
+.back-child,
+.back-to-login1 {
+  position: absolute;
+  height: 35px;
+}
+.back-child {
+  top: calc(50% - 18.5px);
+  left: calc(50% - 71.5px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 143px;
+}
+.back-to-login1 {
+  top: calc(50% - 16.5px);
+  left: calc(50% - 68.5px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+}
+.back1 {
+  position: absolute;
+  top: calc(50% + 420px);
+  left: calc(50% + 594px);
+  width: 143px;
+  height: 37px;
+  cursor: pointer;
+  font-size: 17px;
+}
+.home-ceo {
+  position: relative;
+  background-color: #1f282d;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: Jost;
+}

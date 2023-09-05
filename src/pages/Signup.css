@@ -1,0 +1,183 @@
+.signup-child,
+.signup-item {
+  position: absolute;
+  top: calc(50% - 132px);
+  left: calc(50% + 129px);
+  width: 370.99px;
+  height: 340.42px;
+}
+.signup-item {
+  top: calc(50% - 512px);
+  left: calc(50% - 619px);
+}
+.frame-child1,
+.frame-inner,
+.group-textfield {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 197px;
+  left: 25px;
+}
+.frame-child1,
+.group-textfield {
+  left: 343px;
+}
+.frame-child1 {
+  top: 274px;
+  left: 23px;
+}
+.frame-child2 {
+  top: 274px;
+}
+.frame-child2,
+.frame-child3,
+.frame-child4 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.frame-child2 {
+  left: 344px;
+}
+.frame-child3 {
+  top: 367px;
+  left: 23px;
+}
+.frame-child4 {
+  top: 364px;
+  left: 344px;
+}
+.ceo,
+.employee {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.employee {
+  top: 560px;
+  left: 91px;
+  width: 167px;
+  height: 24px;
+}
+.ceo {
+  top: 624px;
+  left: 112px;
+  width: 71px;
+  height: 33px;
+}
+.check-box {
+  position: absolute;
+  top: 568px;
+  left: 42px;
+}
+.check-box1 {
+  left: 42px;
+}
+.check-box1,
+.check-box2 {
+  position: absolute;
+}
+.check-box1 {
+  top: 627px;
+}
+.check-box2 {
+  top: 483px;
+  left: 362px;
+}
+.allow-organize-your {
+  top: 478px;
+  left: 429px;
+  font-size: 20px;
+  width: 261px;
+  height: 85px;
+}
+.allow-organize-your,
+.lets-get-all,
+.sign-up {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.sign-up {
+  top: 27px;
+  left: 58px;
+  font-size: 50px;
+  font-weight: 600;
+  width: 254px;
+  height: 54px;
+}
+.lets-get-all {
+  top: 99px;
+  left: 48px;
+  font-size: 20px;
+  color: #000;
+  width: 498px;
+}
+.frame-button {
+  position: absolute;
+  top: 608px;
+  left: 467px;
+  cursor: pointer;
+}
+.frame-child5 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 466px;
+  left: 25px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 440px;
+  left: -359px;
+  width: 370.99px;
+  height: 340.42px;
+}
+.instance-parent {
+  position: absolute;
+  top: calc(50% - 350px);
+  left: calc(50% - 361px);
+  border-radius: 56px;
+  background-color: #fff;
+  border: 2px solid #5c6666;
+  box-sizing: border-box;
+  width: 721px;
+  height: 701px;
+}
+.signup-child1 {
+  width: 370.99px;
+  height: 340.42px;
+}
+.signup-child1,
+.signup-child2,
+.signup-inner {
+  position: absolute;
+}
+.signup-inner {
+  top: calc(50% - 512px);
+  left: calc(50% + 500px);
+  width: 370.99px;
+  height: 340.42px;
+}
+.signup-child1 {
+  top: calc(50% + 298px);
+  left: calc(50% + 548px);
+}
+.signup-child2 {
+  top: calc(50% - 411px);
+  left: calc(50% - 720px);
+  width: 290px;
+  height: 238px;
+}
+.signup {
+  position: relative;
+  background-color: #1f282d;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 30px;
+  color: #1b3048;
+  font-family: "Encode Sans Expanded";
+}

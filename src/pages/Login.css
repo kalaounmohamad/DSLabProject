@@ -1,0 +1,37 @@
+.login-child {
+  position: absolute;
+  top: calc(50% + 59px);
+  left: calc(50% + 514px);
+  width: 370.99px;
+  height: 340.42px;
+}
+.login-item {
+  top: calc(50% - 512px);
+  left: calc(50% - 940px);
+  width: 448.3px;
+  height: 276.8px;
+}
+.login-child1,
+.login-inner,
+.login-item {
+  position: absolute;
+}
+.login-inner {
+  top: calc(50% + 176px);
+  left: calc(50% - 835px);
+  width: 205px;
+  height: 185px;
+}
+.login-child1 {
+  top: calc(50% - 512px);
+  left: calc(50% + 448px);
+  width: 473px;
+  height: 382px;
+}
+.login {
+  position: relative;
+  background-color: #1f282d;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+}

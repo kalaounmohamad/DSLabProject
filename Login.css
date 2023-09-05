@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(31,40,48);
+
+}
+
+.login-Box{
+    background-color: white;
+    width:35%;
+    height:500px;
+    margin: 0 auto;
+    margin-top: 10%;
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.login{
+    font-size: 40px;
+    margin-bottom:0px;
+}
+
+.welcome{
+    font-size: 30px;
+}
+
+.input-box {
+    border: none;
+    border-bottom: 2px solid black;
+    margin: 10px auto;
+    width: 40%;
+    outline: none;
+}
+
+.buttons {
+    width: 100%;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 40px;
+}
+
+button {
+    border: none;
+    background-color: rgb(27,48,72);
+    border-radius: 15px;
+    cursor: pointer;
+    color: white;
+    padding: 10px 20px; 
+    margin: 0 10px;
+}
+
+.visit {
+    font-size: 20px;
+}
+
+a {
+    color: rgb(27,48,72);
+}
+
+@media (max-width: 1100px) {
+    .login {
+        font-size: 30px;
+    }
+
+    .welcome {
+        font-size: 20px;
+    }
+
+    button {
+        width: 25%;
+        margin: 0 5px;
+        font-size: 10px;
+        padding: 10px 5px;
+    }
+
+    .visit {
+        font-size: 15px;
+    }
+}

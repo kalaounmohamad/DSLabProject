@@ -1,0 +1,104 @@
+.employee-demo-child4,
+.image-7-icon6 {
+  position: absolute;
+  top: 27px;
+  left: 82px;
+  width: 83px;
+  height: 77px;
+}
+.image-7-icon6 {
+  top: 45px;
+  left: 100px;
+  width: 47px;
+  height: 41px;
+  object-fit: cover;
+}
+.name-lastname6 {
+  position: absolute;
+  top: 112px;
+  left: 42px;
+  font-weight: 600;
+  color: #000;
+  display: inline-block;
+  width: 164px;
+  height: 15px;
+}
+.position6,
+.streak-of-projects6 {
+  position: absolute;
+  top: 148px;
+  left: 33px;
+  font-weight: 600;
+}
+.streak-of-projects6 {
+  top: 221px;
+  left: 69px;
+  font-size: 12px;
+}
+.email-address6,
+.phone-number6 {
+  position: absolute;
+  top: 178px;
+  left: 33px;
+  font-weight: 600;
+}
+.phone-number6 {
+  top: 148px;
+  left: 124px;
+}
+.image-10-icon6,
+.image-8-icon6,
+.image-9-icon6 {
+  position: absolute;
+  top: 183px;
+  left: 7px;
+  width: 22px;
+  height: 13px;
+  object-fit: cover;
+}
+.image-10-icon6,
+.image-9-icon6 {
+  top: 224px;
+  left: 44px;
+  width: 16px;
+  height: 11px;
+}
+.image-10-icon6 {
+  top: 152px;
+  left: 10px;
+  width: 19px;
+  height: 15px;
+}
+.image-11-icon6 {
+  top: 152px;
+}
+.image-11-icon6,
+.image-12-icon6 {
+  position: absolute;
+  object-fit: cover;
+}
+.image-11-icon6 {
+  left: 106px;
+  width: 17px;
+  height: 12px;
+}
+.image-12-icon6 {
+  top: 222px;
+  left: 174px;
+  width: 21px;
+  height: 15px;
+}
+.employee-demo6 {
+  position: absolute;
+  width: calc(100% - 1638px);
+  top: calc(50% - 416px);
+  right: 1060px;
+  left: 578px;
+  border-radius: 42px;
+  background-color: #f6f6f6;
+  height: 252px;
+  text-align: center;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.56);
+  font-family: Jost;
+}

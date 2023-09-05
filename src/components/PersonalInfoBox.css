@@ -1,0 +1,62 @@
+.personal-info-box-child {
+  position: absolute;
+  top: calc(50% - 272px);
+  left: calc(50% - 255px);
+  border-radius: 21px;
+  background-color: #fff;
+  width: 510px;
+  height: 544px;
+}
+.personal-info-box-item {
+  position: absolute;
+  top: calc(50% - 231.48px);
+  left: calc(50% - 39.98px);
+  width: 80.48px;
+  height: 89.34px;
+  object-fit: cover;
+}
+.username {
+  position: absolute;
+  top: calc(50% - 142px);
+  left: calc(50% - 79px);
+  font-weight: 600;
+  display: inline-block;
+  width: 151.41px;
+  height: 42.46px;
+}
+.check-1-icon {
+  position: absolute;
+  top: calc(50% - 12.38px);
+  left: calc(50% - 117.54px);
+  width: 22.31px;
+  height: 24.77px;
+  object-fit: cover;
+}
+.receive-email-notifications {
+  position: absolute;
+  top: calc(50% - 7.08px);
+  left: calc(50% - 86.46px);
+  display: inline-block;
+  width: 204px;
+  height: 19.46px;
+}
+.email-notification-tick {
+  position: absolute;
+  top: calc(50% + 117px);
+  left: calc(50% - 121px);
+  width: 235.08px;
+  height: 24.77px;
+  text-align: left;
+  font-size: 17px;
+}
+.personal-info-box {
+  position: absolute;
+  top: calc(50% - 318px);
+  left: calc(50% - 493px);
+  width: 510px;
+  height: 544px;
+  text-align: center;
+  font-size: 30px;
+  color: #000;
+  font-family: Jost;
+}

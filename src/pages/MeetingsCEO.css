@@ -1,0 +1,210 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.weekly-meetings {
+  position: absolute;
+  top: 35px;
+  left: 971px;
+  background: linear-gradient(180deg, #000, transparent);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 392.54px;
+  height: 82px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.meeting-page {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  width: 1363.54px;
+  height: 1002px;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Jim Nightshade";
+}
+.meeting-child10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 22px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.meeting-1-at13 {
+  position: absolute;
+  height: 62.82%;
+  width: 89.04%;
+  top: 24.36%;
+  left: 10.96%;
+  font-weight: 600;
+  display: inline-block;
+}
+.image-23-icon13 {
+  position: absolute;
+  height: 51.28%;
+  width: 5.4%;
+  top: 16.67%;
+  right: 92.49%;
+  bottom: 32.05%;
+  left: 2.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.meeting13 {
+  top: 178px;
+  left: 974px;
+}
+.meeting13,
+.meeting14,
+.meeting15,
+.meeting16,
+.meeting17,
+.meeting18 {
+  position: absolute;
+  border-radius: 9px;
+  width: 347px;
+  height: 78px;
+}
+.meeting13:hover,
+.meeting14:hover,
+.meeting15:hover,
+.meeting16:hover,
+.meeting17:hover,
+.meeting18:hover,
+.meeting19:hover,
+.meeting20:hover,
+.meeting21:hover,
+.meeting22:hover,
+.meeting23:hover,
+.meeting24:hover,
+.meeting25:hover,
+.meeting26:hover,
+.meeting27:hover,
+.meeting28:hover,
+.meeting29:hover,
+.meeting30:hover {
+  background-color: #fff;
+  animation: 2s ease 0s 1 normal none scale-up;
+  opacity: 1;
+}
+.meeting14 {
+  top: 186px;
+  left: 492px;
+}
+.meeting15 {
+  top: 178px;
+  left: 1449px;
+}
+.meeting16 {
+  top: 300px;
+  left: 974px;
+}
+.meeting17 {
+  top: 304px;
+  left: 499px;
+}
+.meeting18 {
+  top: 296px;
+  left: 1456px;
+}
+.meeting19 {
+  position: absolute;
+  top: 410px;
+  left: 974px;
+  border-radius: 9px;
+  width: 347px;
+  height: 78px;
+}
+.meeting20 {
+  top: 410px;
+}
+.meeting20,
+.meeting21,
+.meeting22,
+.meeting23,
+.meeting24 {
+  position: absolute;
+  border-radius: 9px;
+  width: 347px;
+  height: 78px;
+}
+.meeting20 {
+  left: 499px;
+}
+.meeting21 {
+  top: 402px;
+  left: 1456px;
+}
+.meeting22 {
+  top: 526px;
+  left: 974px;
+}
+.meeting23,
+.meeting24 {
+  left: 974px;
+}
+.meeting23 {
+  top: 645px;
+}
+.meeting24 {
+  top: 762px;
+}
+.meeting25 {
+  top: 526px;
+  left: 492px;
+}
+.meeting25,
+.meeting26,
+.meeting27,
+.meeting28,
+.meeting29,
+.meeting30 {
+  position: absolute;
+  border-radius: 9px;
+  width: 347px;
+  height: 78px;
+}
+.meeting26 {
+  top: 518px;
+  left: 1449px;
+}
+.meeting27 {
+  top: 644px;
+  left: 492px;
+}
+.meeting28 {
+  top: 636px;
+  left: 1449px;
+}
+.meeting29 {
+  top: 762px;
+  left: 492px;
+}
+.meeting30 {
+  top: 754px;
+  left: 1449px;
+}
+.meetings-ceo {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Jost;
+}

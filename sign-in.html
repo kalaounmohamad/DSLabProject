@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="sign-in.css" rel="stylesheet">
+    <title>Sign Up Page</title>
+</head>
+<body>
+    <div class = "signup"> 
+        <div class ="title"> <p> Sign Up</p></div>
+        <div class="slogin"> <p> Let's get all your required information and get started</p></div>
+        <div > 
+            <input type="text" placeholder="Name" label="name">
+            <input type="text" placeholder="Position">
+        </div> 
+        <div > 
+            <input type="text" placeholder="Email">
+            <input type="text" placeholder="Phone">
+        </div> 
+        <div > 
+            <input type="text" placeholder="Password">
+            <input type="text" placeholder="Confirm Password">
+        </div> 
+        <div > 
+            <input type="text" placeholder="Company Name">
+
+         
+        
+        <input
+        list="type"
+        placeholder="employee type"
+        class="types"
+        onfocus="this.value=''"
+        onchange="this.blur();"
+        />
+
+      <datalist id="type">
+        <option value="CEO"></option>
+        <option value="Employee"></option>
+      </datalist>
+      </div>
+
+
+    <p style="float: none; text-align: right; clear: both; margin-top:30px; margin-right: 150px">
+        <input style="float:none; vertical-align: middle;" type="checkbox" id="agree" />
+        <label style="display:inline; float:none; margin-left: -100px;" for="agree">
+          I agree to receive notifications through the email address provided</a>.
+        </label>
+      </p>
+
+      <button class="save"> <a href="Login.html">Save </a></button>
+</body>
+</html>

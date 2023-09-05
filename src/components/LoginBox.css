@@ -1,0 +1,117 @@
+.login-box-child {
+  position: absolute;
+  top: calc(50% - 340px);
+  left: calc(50% - 344px);
+  border-radius: 47px;
+  width: 688px;
+  height: 680px;
+}
+.login1,
+.welcome-back {
+  position: absolute;
+  top: calc(50% - 319.5px);
+  left: calc(50% - 73.5px);
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: inline-block;
+  width: 147px;
+  height: 59px;
+}
+.welcome-back {
+  top: calc(50% - 241.5px);
+  left: calc(50% - 114.5px);
+  font-size: 30px;
+  font-weight: 600;
+  width: 230px;
+  height: 58px;
+}
+.login-box-child1,
+.login-box-inner,
+.login-box-item {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.login-box-item {
+  top: calc(50% - 160.5px);
+  left: calc(50% - 230.5px);
+}
+.login-box-child1,
+.login-box-inner {
+  left: calc(50% - 235.5px);
+}
+.login-box-inner {
+  top: calc(50% - 59.5px);
+}
+.login-box-child1 {
+  top: calc(50% + 26.5px);
+}
+.if-you-are {
+  position: absolute;
+  top: calc(50% + 203.5px);
+  left: calc(50% - 200.5px);
+  font-size: 20px;
+  letter-spacing: -0.02em;
+  color: #000;
+  display: inline-block;
+  width: 402px;
+  height: 24px;
+}
+.group-button,
+.image-24 {
+  position: absolute;
+  top: calc(50% + 269.5px);
+  left: calc(50% - 52.5px);
+}
+.image-24 {
+  top: calc(50% - 152.5px);
+  left: calc(50% - 290.5px);
+  width: 55px;
+  height: 43px;
+}
+.image-25-icon {
+  top: calc(50% - 51.5px);
+  left: calc(50% - 293.5px);
+  width: 41px;
+  height: 42px;
+}
+.image-25-icon,
+.image-26-icon,
+.image-27-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-26-icon {
+  top: calc(50% - 149.5px);
+  left: calc(50% - 290.5px);
+  width: 38px;
+  height: 36px;
+}
+.image-27-icon {
+  top: calc(50% + 34.5px);
+  left: calc(50% - 287.5px);
+  width: 36px;
+  height: 37px;
+}
+.login-box-child2,
+.login-box-child3 {
+  position: absolute;
+  top: calc(50% + 112.5px);
+  left: calc(50% - 175.5px);
+  cursor: pointer;
+}
+.login-box-child3 {
+  top: calc(50% + 109.5px);
+  left: calc(50% + 28.5px);
+}
+.login-box {
+  position: absolute;
+  top: calc(50% - 338px);
+  left: calc(50% - 343px);
+  width: 685px;
+  height: 677px;
+  text-align: center;
+  font-size: 50px;
+  color: #1b3048;
+  font-family: "Encode Sans Expanded";
+}

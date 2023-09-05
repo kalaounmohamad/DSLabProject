@@ -1,0 +1,99 @@
+.frame-child,
+.frame-item {
+  position: absolute;
+  top: 4.52px;
+  left: 716.56px;
+  border-radius: 52px;
+  width: 477.55px;
+  height: 579.46px;
+}
+.frame-item {
+  top: 16.87px;
+  left: 784.26px;
+  width: 384.5px;
+  height: 570.73px;
+}
+.grow1 {
+  font-size: 60px;
+}
+.span {
+  font-size: 40px;
+}
+.grow {
+  color: #fff;
+}
+.your {
+  font-size: 55px;
+  color: #6d99cc;
+}
+.span1 {
+  font-size: 40px;
+  color: #fff;
+}
+.grow-your-business {
+  margin: 0;
+}
+.with-us {
+  margin: 0;
+  font-size: 45px;
+  color: #fff;
+}
+.grow-your-business-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.grow-your-business-container {
+  position: absolute;
+  height: calc(100% - 430px);
+  width: calc(100% - 579px);
+  top: 81px;
+  left: 90px;
+  display: flex;
+  align-items: center;
+}
+.allow {
+  font-size: 30px;
+  color: #fff;
+}
+.organize-your-co {
+  font-size: 40px;
+  color: #98bddf;
+}
+.allow-organize-your-container {
+  position: absolute;
+  top: 267px;
+  left: 43px;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 631px;
+  height: 111px;
+  font-size: 30px;
+  color: #fff;
+}
+.component-1 {
+  position: absolute;
+  top: 453px;
+  left: 280px;
+  cursor: pointer;
+}
+.vector-parent {
+  position: absolute;
+  top: calc(50% - 293px);
+  left: calc(50% - 577px);
+  border-radius: 66px;
+  background-color: rgba(255, 255, 255, 0.15);
+  width: 1174px;
+  height: 586px;
+}
+.home-page {
+  position: relative;
+  background-color: #1f282d;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 50px;
+  color: #6184ac;
+  font-family: Inter;
+}

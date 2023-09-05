@@ -1,0 +1,73 @@
+.background-child {
+  top: 815.14px;
+  left: 569px;
+  width: 291px;
+  height: 231px;
+}
+.background-child,
+.background-child1,
+.background-child2,
+.background-child3,
+.background-inner,
+.background-item {
+  position: absolute;
+  border-radius: 48px;
+  transform: rotate(-36.51deg);
+  transform-origin: 0 0;
+}
+.background-item {
+  top: 815.14px;
+  left: 569px;
+  width: 291px;
+  height: 231px;
+}
+.background-child {
+  background: linear-gradient(179.84deg, #7bb072, #c7dcdc 49.18%, #c7dcdc);
+}
+.background-child1,
+.background-child2,
+.background-child3,
+.background-inner,
+.background-item {
+  background: linear-gradient(179.84deg, #3b597d, #888c8c 49.18%, #1f282d);
+}
+.background-inner {
+  top: 1189.14px;
+  left: 102px;
+  width: 327.97px;
+  height: 333.44px;
+}
+.background-child1 {
+  top: 750.61px;
+  left: 0;
+  width: 397.67px;
+  height: 402.47px;
+}
+.background-child2 {
+  top: 523.02px;
+  left: 585px;
+  width: 186.59px;
+  height: 178.77px;
+}
+.background-child3 {
+  top: 210.69px;
+  left: 123px;
+  width: 354.11px;
+  height: 250.99px;
+}
+.background {
+  position: absolute;
+  top: -238px;
+  left: 597px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  filter: blur(6px);
+  width: 940.33px;
+  height: 1457.14px;
+}
+.new-meeting {
+  position: relative;
+  background-color: #1f282d;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+}
