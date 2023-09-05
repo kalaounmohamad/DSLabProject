@@ -1,4 +1,4 @@
-# company organizer
+# Organize your company
 
 ## This was the final outcome of a team of 3 members in the Data Structures Lab @ LAU
 
