@@ -1,6 +1,7 @@
 # company organizer
 
-This was the final outcome of a team of 3 members in the Data Structures Lab @ LAU
+## This was the final outcome of a team of 3 members in the Data Structures Lab @ LAU
+
 Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
 To preview and run the project on your device:
